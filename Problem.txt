@@ -1,0 +1,1 @@
+Create an Employee class that stores an employee’s ID number and name. Then create an EmployeeMaps class that allows you to add Employee objects and look them up by their ID numbers. The EmployeeMap class should use a Map object to map ID numbers to Employee objects. Create an application to demonstrate the classes.
